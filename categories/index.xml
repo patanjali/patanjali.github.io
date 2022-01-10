@@ -6,17 +6,53 @@
     <description>Recent content in Categories on Patanjali SLPSK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jun 2018 06:41:32 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jan 2022 20:26:12 -0500</lastBuildDate>
     
 	<atom:link href="https://patanjali.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Conference</title>
+      <link>https://patanjali.github.io/categories/conference/</link>
+      <pubDate>Sun, 09 Jan 2022 20:26:12 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/categories/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Journal</title>
       <link>https://patanjali.github.io/categories/journal/</link>
-      <pubDate>Sun, 03 Jun 2018 06:41:32 -0700</pubDate>
+      <pubDate>Mon, 07 Dec 2020 06:41:32 -0700</pubDate>
       
       <guid>https://patanjali.github.io/categories/journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preprint</title>
+      <link>https://patanjali.github.io/categories/preprint/</link>
+      <pubDate>Sun, 06 Dec 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/categories/preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster</title>
+      <link>https://patanjali.github.io/categories/poster/</link>
+      <pubDate>Mon, 03 Jun 2019 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/categories/poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshop</title>
+      <link>https://patanjali.github.io/categories/workshop/</link>
+      <pubDate>Sun, 07 Oct 2012 20:25:05 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/categories/workshop/</guid>
       <description></description>
     </item>
     

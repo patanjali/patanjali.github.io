@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/categories/conference/</link>
+    <description>Recent content in Conference on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jan 2022 20:26:12 -0500</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/categories/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Depending on HTTP/2 for Privacy? Good Luck!</title>
+      <link>https://patanjali.github.io/publication/mitra-2020-depending/</link>
+      <pubDate>Sun, 09 Jan 2022 20:26:12 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/mitra-2020-depending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trusted Electronic Systems with Untrusted COTS</title>
+      <link>https://patanjali.github.io/publication/yang-2021-trusted/</link>
+      <pubDate>Wed, 07 Apr 2021 20:26:19 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/yang-2021-trusted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Srivastava 2020 Solomon</title>
+      <link>https://patanjali.github.io/publication/srivastava-2020-solomon/</link>
+      <pubDate>Mon, 09 Mar 2020 20:26:05 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/srivastava-2020-solomon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karna: A gate-sizing based security aware eda flow for improved power side-channel attack protection</title>
+      <link>https://patanjali.github.io/publication/slpsk-2019-karna/</link>
+      <pubDate>Mon, 04 Nov 2019 20:26:07 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2019-karna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>White Mirror: Leaking Sensitive Information from Interactive Netflix Movies using Encrypted Traffic Analysis</title>
+      <link>https://patanjali.github.io/publication/mitra-2019-white/</link>
+      <pubDate>Sun, 21 Apr 2019 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/mitra-2019-white/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

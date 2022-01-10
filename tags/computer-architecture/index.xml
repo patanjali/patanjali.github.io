@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Architecture on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/tags/computer-architecture/</link>
+    <description>Recent content in Computer Architecture on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 06:41:32 -0700</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/tags/computer-architecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brutus: Refuting the Security Claims of the Cache Timing Randomization Countermeasure Proposed in CEASER</title>
+      <link>https://patanjali.github.io/publication/bodduna-2020-brutus/</link>
+      <pubDate>Mon, 01 Jun 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/bodduna-2020-brutus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks.</title>
+      <link>https://patanjali.github.io/publication/krishnakumar-2018-gandalf/</link>
+      <pubDate>Sat, 03 Feb 2018 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/krishnakumar-2018-gandalf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Implications of Shared Data Synchronization Techniques on Multi-Core Energy Efﬁciency</title>
+      <link>https://patanjali.github.io/publication/gautham-2012-implications/</link>
+      <pubDate>Sun, 07 Oct 2012 20:25:05 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/gautham-2012-implications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

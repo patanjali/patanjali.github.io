@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prasanna Karthik on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/authors/prasanna-karthik/</link>
+    <description>Recent content in Prasanna Karthik on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2019 06:41:32 -0700</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/authors/prasanna-karthik/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Karna: A Security Aware EDA Flow for Improved Side-Channel Attack Protection</title>
+      <link>https://patanjali.github.io/publication/poster/paper5/</link>
+      <pubDate>Mon, 03 Jun 2019 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/poster/paper5/</guid>
+      <description>Side-channel attacks pose a serious threat to the security of embedded devices. Most available countermeasures have significant overheads and very often do not meet an application’s requirement of low-power, high-performance, and small-area. In this work, we propose an algorithm called Karna that can be incorporated in the Electronic Design Automation (EDA) flow, in order to significantly improve the side-channel security of a device, without compromising on the other device characteristics of power, performance, and area.</description>
+    </item>
+    
+    <item>
+      <title>White Mirror: Leaking Sensitive Information from Interactive Netflix Movies using Encrypted Traffic Analysis</title>
+      <link>https://patanjali.github.io/publication/mitra-2019-white/</link>
+      <pubDate>Sun, 21 Apr 2019 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/mitra-2019-white/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

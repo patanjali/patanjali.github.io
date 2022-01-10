@@ -6,18 +6,27 @@
     <description>Recent content in 1 on Patanjali SLPSK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Oct 2012 06:41:32 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jan 2022 20:26:12 -0500</lastBuildDate>
     
 	<atom:link href="https://patanjali.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>The Implications of Shared Data Synchronization Techniques on Multi-Core Energy Efficiency.</title>
-      <link>https://patanjali.github.io/publication/conference/paper3/</link>
-      <pubDate>Sun, 21 Oct 2012 06:41:32 -0700</pubDate>
+      <title>Depending on HTTP/2 for Privacy? Good Luck!</title>
+      <link>https://patanjali.github.io/publication/mitra-2020-depending/</link>
+      <pubDate>Sun, 09 Jan 2022 20:26:12 -0500</pubDate>
       
-      <guid>https://patanjali.github.io/publication/conference/paper3/</guid>
-      <description>Shared data synchronization is at the heart of the multi-core revolution since it is essential for writing concurrent programs. Ideally, a synchronization technique should be able to fully exploit the available cores, leading to improved performance. However, with the growing demand for energy-efficient systems, it also needs to work within the energy and power budget of the system. In this paper, we perform a detailed study of the performance as well as energy efficiency of popular shared-data synchronization techniques on a commodity multi-core processor.</description>
+      <guid>https://patanjali.github.io/publication/mitra-2020-depending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>White Mirror: Leaking Sensitive Information from Interactive Netflix Movies using Encrypted Traffic Analysis</title>
+      <link>https://patanjali.github.io/publication/mitra-2019-white/</link>
+      <pubDate>Sun, 21 Apr 2019 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/mitra-2019-white/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poster on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/categories/poster/</link>
+    <description>Recent content in Poster on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Jun 2019 06:41:32 -0700</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/categories/poster/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Karna: A Security Aware EDA Flow for Improved Side-Channel Attack Protection</title>
+      <link>https://patanjali.github.io/publication/poster/paper5/</link>
+      <pubDate>Mon, 03 Jun 2019 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/poster/paper5/</guid>
+      <description>Side-channel attacks pose a serious threat to the security of embedded devices. Most available countermeasures have significant overheads and very often do not meet an application’s requirement of low-power, high-performance, and small-area. In this work, we propose an algorithm called Karna that can be incorporated in the Electronic Design Automation (EDA) flow, in order to significantly improve the side-channel security of a device, without compromising on the other device characteristics of power, performance, and area.</description>
+    </item>
+    
+    <item>
+      <title>FastReplace: Efficient Vt Replacement Technique for Leakage Power Minimization</title>
+      <link>https://patanjali.github.io/publication/poster/paper6/</link>
+      <pubDate>Tue, 03 Jun 2014 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/poster/paper6/</guid>
+      <description>We consider the timing-constrained discrete Vt-assignment problem for leakage minimization in digital circuits. The problem is known to be NP-complete. Greedy or Sensitivity-driven heuristics are known to be very effective for iterative Vt-assignment, with incremental timing analysis performed between the iterations. These heuristics, while offering good leakage power savings, carry a huge run-time penalty with increase in circuit size. In iterative Vt-assignment, we observe that there is a good correlation between the slack distribution in a given iteration, and the order of gate replacements in subsequent iterations.</description>
+    </item>
+    
+  </channel>
+</rss>

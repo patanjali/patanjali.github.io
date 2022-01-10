@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rahul Bodduna on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/authors/rahul-bodduna/</link>
+    <description>Recent content in Rahul Bodduna on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 06:41:32 -0700</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/authors/rahul-bodduna/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brutus: Refuting the Security Claims of the Cache Timing Randomization Countermeasure Proposed in CEASER</title>
+      <link>https://patanjali.github.io/publication/bodduna-2020-brutus/</link>
+      <pubDate>Mon, 01 Jun 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/bodduna-2020-brutus/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

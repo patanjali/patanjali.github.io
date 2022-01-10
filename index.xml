@@ -6,10 +6,101 @@
     <description>Recent content on Patanjali SLPSK</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2019 06:41:32 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jan 2022 20:26:12 -0500</lastBuildDate>
     
 	    <atom:link href="https://patanjali.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Depending on HTTP/2 for Privacy? Good Luck!</title>
+      <link>https://patanjali.github.io/publication/mitra-2020-depending/</link>
+      <pubDate>Sun, 09 Jan 2022 20:26:12 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/mitra-2020-depending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated Trojan Benchmarking -CAD for Assurance Lecture 4</title>
+      <link>https://patanjali.github.io/talk/talk1/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://patanjali.github.io/talk/talk1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trusted Electronic Systems with Untrusted COTS</title>
+      <link>https://patanjali.github.io/publication/yang-2021-trusted/</link>
+      <pubDate>Wed, 07 Apr 2021 20:26:19 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/yang-2021-trusted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Database-Free Authentication of Microelectronic Components</title>
+      <link>https://patanjali.github.io/publication/zhang-2020-database/</link>
+      <pubDate>Mon, 07 Dec 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/zhang-2020-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MeLPUF: Memory in Logic PUF</title>
+      <link>https://patanjali.github.io/publication/vega-2020-melpuf/</link>
+      <pubDate>Sun, 06 Dec 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/vega-2020-melpuf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGNED: A Challenge-Response Based Interrogation Scheme for Simultaneous Watermarking and Trojan Detection</title>
+      <link>https://patanjali.github.io/publication/nair-2020-signed/</link>
+      <pubDate>Sun, 06 Dec 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/nair-2020-signed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust Issues in Microelectronics: The concerns and the countermeasures</title>
+      <link>https://patanjali.github.io/publication/hoque-2020-trust/</link>
+      <pubDate>Sun, 01 Nov 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/hoque-2020-trust/</guid>
+      <description>&lt;p&gt;++&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Brutus: Refuting the Security Claims of the Cache Timing Randomization Countermeasure Proposed in CEASER</title>
+      <link>https://patanjali.github.io/publication/bodduna-2020-brutus/</link>
+      <pubDate>Mon, 01 Jun 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/bodduna-2020-brutus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Srivastava 2020 Solomon</title>
+      <link>https://patanjali.github.io/publication/srivastava-2020-solomon/</link>
+      <pubDate>Mon, 09 Mar 2020 20:26:05 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/srivastava-2020-solomon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karna: A gate-sizing based security aware eda flow for improved power side-channel attack protection</title>
+      <link>https://patanjali.github.io/publication/slpsk-2019-karna/</link>
+      <pubDate>Mon, 04 Nov 2019 20:26:07 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2019-karna/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Karna: A Security Aware EDA Flow for Improved Side-Channel Attack Protection</title>
@@ -33,39 +124,29 @@
     
     <item>
       <title>White Mirror: Leaking Sensitive Information from Interactive Netflix Movies using Encrypted Traffic Analysis</title>
-      <link>https://patanjali.github.io/publication/arxiv/paper4/</link>
+      <link>https://patanjali.github.io/publication/mitra-2019-white/</link>
       <pubDate>Sun, 21 Apr 2019 06:41:32 -0700</pubDate>
       
-      <guid>https://patanjali.github.io/publication/arxiv/paper4/</guid>
-      <description>&lt;p&gt;Privacy leaks from Netflix videos/movies is well researched. Current state-of-the-art works have been able to obtain coarse-grained information such as the genre and the title of videos by passive observation of encrypted traffic. However, leakage of fine-grained information from encrypted traffic has not been studied so far. Such information can be used to build behavioural profiles of viewers.
-On 28th December 2018, Netflix released the first mainstream interactive movie called &amp;lsquo;Black Mirror: Bandersnatch&amp;rsquo;. In this work, we use this movie as a case-study to show for the first time that fine-grained information (i.e., choices made by users) can be revealed from encrypted traffic. We use the state information exchanged between the viewer&amp;rsquo;s browser and Netflix as the side-channel. To evaluate our proposed technique, we built the first interactive video traffic dataset of 100 viewers; which we will be releasing. Preliminary results indicate that the choices made by a user can be revealed 96% of the time in the worst case.&lt;/p&gt;
-</description>
+      <guid>https://patanjali.github.io/publication/mitra-2019-white/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>MLTimer: Leakage Power Minimisation in Digital Circuits using Machine Learning and Adaptive Lazy Timing Analysis</title>
-      <link>https://patanjali.github.io/publication/journal/paper1/</link>
+      <link>https://patanjali.github.io/publication/patanjali-2018-mltimer/</link>
       <pubDate>Sun, 03 Jun 2018 06:41:32 -0700</pubDate>
       
-      <guid>https://patanjali.github.io/publication/journal/paper1/</guid>
-      <description>&lt;p&gt;Power optimization techniques in a VLSI flow typically end up being the performance bottlenecks leading to a large turn around time for the following reasons:
-    * Scalability: The design typically spans millions and millions of gates with different operating conditions leading to a large search space.
-    *  Portability: The constraints vary across technology nodes hindering reusability of solutions.
-ML models are inherently trained to operate on large datasets and navigate a complex search space. The contributions of our work are as follows.
-    * We propose a novel learning (Support Vector Machine) based classifier, which provides a good initial design configuration that guarantees leakage optimal solution.
-    * We use a Lazy Timing Analysis procedure that postpones the timing validation step as much as possible.
-    * We show the efficiency of our technique on large scale benchmark datasets (25K - 1million gates). Our technique performs 23% better in terms of solution quality when compared with the state-of-the art technique and 50% better in terms of runtime.&lt;/p&gt;
-</description>
+      <guid>https://patanjali.github.io/publication/patanjali-2018-mltimer/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks.</title>
-      <link>https://patanjali.github.io/publication/journal/paper2/</link>
+      <link>https://patanjali.github.io/publication/krishnakumar-2018-gandalf/</link>
       <pubDate>Sat, 03 Feb 2018 06:41:32 -0700</pubDate>
       
-      <guid>https://patanjali.github.io/publication/journal/paper2/</guid>
-      <description>&lt;p&gt;Illegal memory accesses are a serious security vulnerability that have been exploited on numerous occasions. In this letter, we present Gandalf, a compiler assisted hardware extension for the OpenRISC processor that thwarts all forms of memory-based attacks. We associate lightweight capabilities to all program variables, which are checked at run time by the hardware. Gandalf is transparent to the user and does not require significant OS modifications. Moreover, it achieves locality and incurs minimal overheads in the hardware. We demonstrate these features with a customized Linux kernel executing SPEC2006 benchmarks. To the best of our knowledge, this is the first work to demonstrate a complete solution for hardware-based memory protection schemes for embedded platforms&lt;/p&gt;
-</description>
+      <guid>https://patanjali.github.io/publication/krishnakumar-2018-gandalf/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -89,13 +170,12 @@ ML models are inherently trained to operate on large datasets and navigate a com
     </item>
     
     <item>
-      <title>The Implications of Shared Data Synchronization Techniques on Multi-Core Energy Efficiency.</title>
-      <link>https://patanjali.github.io/publication/conference/paper3/</link>
-      <pubDate>Sun, 21 Oct 2012 06:41:32 -0700</pubDate>
+      <title>The Implications of Shared Data Synchronization Techniques on Multi-Core Energy Efﬁciency</title>
+      <link>https://patanjali.github.io/publication/gautham-2012-implications/</link>
+      <pubDate>Sun, 07 Oct 2012 20:25:05 -0500</pubDate>
       
-      <guid>https://patanjali.github.io/publication/conference/paper3/</guid>
-      <description>&lt;p&gt;Shared data synchronization is at the heart of the multi-core revolution since it is essential for writing concurrent programs. Ideally, a synchronization technique should be able to fully exploit the available cores, leading to improved performance. However, with the growing demand for energy-efficient systems, it also needs to work within the energy and power budget of the system. In this paper, we perform a detailed study of the performance as well as energy efficiency of popular shared-data synchronization techniques on a commodity multi-core processor. We show that Software Transactional Memory (STM) systems can perform better than locks for workloads where a significant portion of the running time is spent in the critical sections. We also show how power-conserving techniques available on modern processors like C-states and clock frequency scaling impact energy consumption and performance. Finally, we compare the performance of STMs and locks under similar power budgets.&lt;/p&gt;
-</description>
+      <guid>https://patanjali.github.io/publication/gautham-2012-implications/</guid>
+      <description></description>
     </item>
     
   </channel>

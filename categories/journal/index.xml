@@ -6,18 +6,54 @@
     <description>Recent content in Journal on Patanjali SLPSK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jun 2018 06:41:32 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 07 Dec 2020 06:41:32 -0700</lastBuildDate>
     
 	<atom:link href="https://patanjali.github.io/categories/journal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>On Database-Free Authentication of Microelectronic Components</title>
+      <link>https://patanjali.github.io/publication/zhang-2020-database/</link>
+      <pubDate>Mon, 07 Dec 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/zhang-2020-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust Issues in Microelectronics: The concerns and the countermeasures</title>
+      <link>https://patanjali.github.io/publication/hoque-2020-trust/</link>
+      <pubDate>Sun, 01 Nov 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/hoque-2020-trust/</guid>
+      <description>++</description>
+    </item>
+    
+    <item>
+      <title>Brutus: Refuting the Security Claims of the Cache Timing Randomization Countermeasure Proposed in CEASER</title>
+      <link>https://patanjali.github.io/publication/bodduna-2020-brutus/</link>
+      <pubDate>Mon, 01 Jun 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/bodduna-2020-brutus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MLTimer: Leakage Power Minimisation in Digital Circuits using Machine Learning and Adaptive Lazy Timing Analysis</title>
-      <link>https://patanjali.github.io/publication/journal/paper1/</link>
+      <link>https://patanjali.github.io/publication/patanjali-2018-mltimer/</link>
       <pubDate>Sun, 03 Jun 2018 06:41:32 -0700</pubDate>
       
-      <guid>https://patanjali.github.io/publication/journal/paper1/</guid>
-      <description>Power optimization techniques in a VLSI flow typically end up being the performance bottlenecks leading to a large turn around time for the following reasons: * Scalability: The design typically spans millions and millions of gates with different operating conditions leading to a large search space. * Portability: The constraints vary across technology nodes hindering reusability of solutions. ML models are inherently trained to operate on large datasets and navigate a complex search space.</description>
+      <guid>https://patanjali.github.io/publication/patanjali-2018-mltimer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks.</title>
+      <link>https://patanjali.github.io/publication/krishnakumar-2018-gandalf/</link>
+      <pubDate>Sat, 03 Feb 2018 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/krishnakumar-2018-gandalf/</guid>
+      <description></description>
     </item>
     
   </channel>

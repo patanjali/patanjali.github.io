@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abhishek Anil Nair on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/authors/abhishek-anil-nair/</link>
+    <description>Recent content in Abhishek Anil Nair on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Dec 2020 06:41:32 -0700</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/authors/abhishek-anil-nair/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SIGNED: A Challenge-Response Based Interrogation Scheme for Simultaneous Watermarking and Trojan Detection</title>
+      <link>https://patanjali.github.io/publication/nair-2020-signed/</link>
+      <pubDate>Sun, 06 Dec 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/nair-2020-signed/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

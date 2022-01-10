@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shankar Balachandran on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/authors/shankar-balachandran/</link>
+    <description>Recent content in Shankar Balachandran on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Oct 2012 20:25:05 -0500</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/authors/shankar-balachandran/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Implications of Shared Data Synchronization Techniques on Multi-Core Energy Efﬁciency</title>
+      <link>https://patanjali.github.io/publication/gautham-2012-implications/</link>
+      <pubDate>Sun, 07 Oct 2012 20:25:05 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/gautham-2012-implications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

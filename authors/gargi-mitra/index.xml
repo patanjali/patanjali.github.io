@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gargi Mitra on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/authors/gargi-mitra/</link>
+    <description>Recent content in Gargi Mitra on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jan 2022 20:26:12 -0500</lastBuildDate>
+    
+	<atom:link href="https://patanjali.github.io/authors/gargi-mitra/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Depending on HTTP/2 for Privacy? Good Luck!</title>
+      <link>https://patanjali.github.io/publication/mitra-2020-depending/</link>
+      <pubDate>Sun, 09 Jan 2022 20:26:12 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/mitra-2020-depending/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>White Mirror: Leaking Sensitive Information from Interactive Netflix Movies using Encrypted Traffic Analysis</title>
+      <link>https://patanjali.github.io/publication/mitra-2019-white/</link>
+      <pubDate>Sun, 21 Apr 2019 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/mitra-2019-white/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,18 +6,99 @@
     <description>Recent content in Hardware Security on Patanjali SLPSK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2019 06:12:56 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://patanjali.github.io/tags/hardware-security/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>SecureSizer: An gate-sizing framework for mitigating fault attacks in hardware</title>
-      <link>https://patanjali.github.io/project/proj3/</link>
-      <pubDate>Mon, 03 Jun 2019 06:12:56 -0700</pubDate>
+      <title>Automated Trojan Benchmarking -CAD for Assurance Lecture 4</title>
+      <link>https://patanjali.github.io/talk/talk1/</link>
+      <pubDate>Mon, 14 Jun 2021 00:00:00 -0400</pubDate>
       
-      <guid>https://patanjali.github.io/project/proj3/</guid>
-      <description>Fault attacks are one of the growing physical attacks exploits that target edge devices. The attacker introduces faults at specific locations in the device during encryption thereby corrupting the result of the operation. These faults are introduced by either manipulating the system clock, the power supply or by using a laser. Traditional countermeasures rely on redundant logic, parity checking which introduce area and power overheads. In this work, we explore the idea of gate-sizing as a countermeasure for fault attacks.</description>
+      <guid>https://patanjali.github.io/talk/talk1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trusted Electronic Systems with Untrusted COTS</title>
+      <link>https://patanjali.github.io/publication/yang-2021-trusted/</link>
+      <pubDate>Wed, 07 Apr 2021 20:26:19 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/yang-2021-trusted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Database-Free Authentication of Microelectronic Components</title>
+      <link>https://patanjali.github.io/publication/zhang-2020-database/</link>
+      <pubDate>Mon, 07 Dec 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/zhang-2020-database/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MeLPUF: Memory in Logic PUF</title>
+      <link>https://patanjali.github.io/publication/vega-2020-melpuf/</link>
+      <pubDate>Sun, 06 Dec 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/vega-2020-melpuf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGNED: A Challenge-Response Based Interrogation Scheme for Simultaneous Watermarking and Trojan Detection</title>
+      <link>https://patanjali.github.io/publication/nair-2020-signed/</link>
+      <pubDate>Sun, 06 Dec 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/nair-2020-signed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trust Issues in Microelectronics: The concerns and the countermeasures</title>
+      <link>https://patanjali.github.io/publication/hoque-2020-trust/</link>
+      <pubDate>Sun, 01 Nov 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/hoque-2020-trust/</guid>
+      <description>++</description>
+    </item>
+    
+    <item>
+      <title>Brutus: Refuting the Security Claims of the Cache Timing Randomization Countermeasure Proposed in CEASER</title>
+      <link>https://patanjali.github.io/publication/bodduna-2020-brutus/</link>
+      <pubDate>Mon, 01 Jun 2020 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/bodduna-2020-brutus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Srivastava 2020 Solomon</title>
+      <link>https://patanjali.github.io/publication/srivastava-2020-solomon/</link>
+      <pubDate>Mon, 09 Mar 2020 20:26:05 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/srivastava-2020-solomon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Karna: A gate-sizing based security aware eda flow for improved power side-channel attack protection</title>
+      <link>https://patanjali.github.io/publication/slpsk-2019-karna/</link>
+      <pubDate>Mon, 04 Nov 2019 20:26:07 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2019-karna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GANDALF: A fine-grained hardware-software co-design for preventing memory attacks.</title>
+      <link>https://patanjali.github.io/publication/krishnakumar-2018-gandalf/</link>
+      <pubDate>Sat, 03 Feb 2018 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/krishnakumar-2018-gandalf/</guid>
+      <description></description>
     </item>
     
   </channel>
