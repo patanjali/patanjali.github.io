@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CAD for Trust on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/tags/cad-for-trust/</link>
+    <description>Recent content in CAD for Trust on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://patanjali.github.io/tags/cad-for-trust/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Automatic Implementation of Secure Silicon</title>
+      <link>https://patanjali.github.io/project/proj1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patanjali.github.io/project/proj1/</guid>
+      <description>The primary goal of the DARPA AISS project is to develop secure System on Chips (SoCs) that can be widely used by designers with varying range of security expertise. However, it is also crucial to ensure that the security architectures are compliant with the power, performance, and area requirements. Critical Outcomes produced 1. Developed and demonstrated a proof-of-concept implementation a complete SoC implementation with hardware and firmware support for integrating PUF, Logic Locking protocols, and IP watermarking techniques.</description>
+    </item>
+    
+  </channel>
+</rss>

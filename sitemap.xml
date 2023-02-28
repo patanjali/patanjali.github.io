@@ -3,20 +3,151 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://patanjali.github.io/publication_types/1/</loc>
-    <lastmod>2022-01-09T20:26:12-05:00</lastmod>
+    <loc>https://patanjali.github.io/publication_types/2/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/authors/abhishek-anil-nair/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://patanjali.github.io/authors/</loc>
-    <lastmod>2022-01-09T20:26:12-05:00</lastmod>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://patanjali.github.io/categories/</loc>
-    <lastmod>2022-01-09T20:26:12-05:00</lastmod>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/authors/chester-rebeiro/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/tags/hardware-security/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/categories/journal/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/authors/patanjali-slpsk/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/publication_types/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/publication/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/authors/swarup-bhunia/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/publication/slpsk-2022-treehouse/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/tags/</loc>
+    <lastmod>2023-02-23T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/authors/jonathan-cruz/</loc>
+    <lastmod>2023-01-23T00:00:00-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/talk/talk2/</loc>
+    <lastmod>2023-01-23T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/talk/</loc>
+    <lastmod>2023-01-23T00:00:00-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/publication/slpsk-2022-signed/</loc>
+    <lastmod>2022-11-18T06:41:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/authors/amit-ranjan-trivedi/</loc>
+    <lastmod>2022-08-02T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/authors/fengchao-zhang/</loc>
+    <lastmod>2022-08-02T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/publication/shubhra-2022-rihann/</loc>
+    <lastmod>2022-08-02T06:41:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/authors/shubhra-deb-paul/</loc>
+    <lastmod>2022-08-02T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/publication_types/1/</loc>
+    <lastmod>2022-01-17T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/publication/slpsk-2022-avatar/</loc>
+    <lastmod>2022-01-17T06:41:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/categories/conference-paper/</loc>
+    <lastmod>2022-01-17T06:41:32-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/authors/pritwish-basu-roy/</loc>
+    <lastmod>2022-01-17T06:41:32-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,59 +187,13 @@
   </url>
   
   <url>
-    <loc>https://patanjali.github.io/authors/patanjali-slpsk/</loc>
-    <lastmod>2022-01-09T20:26:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/</loc>
-    <lastmod>2022-01-09T20:26:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://patanjali.github.io/authors/prasanna-karthik-vairam/</loc>
     <lastmod>2022-01-09T20:26:12-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://patanjali.github.io/publication_types/</loc>
-    <lastmod>2022-01-09T20:26:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/publication/</loc>
-    <lastmod>2022-01-09T20:26:12-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/tags/</loc>
-    <lastmod>2022-01-09T20:26:12-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://patanjali.github.io/talk/talk1/</loc>
-    <lastmod>2021-06-14T00:00:00-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/tags/hardware-security/</loc>
-    <lastmod>2021-06-14T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/authors/jonathan-cruz/</loc>
-    <lastmod>2021-06-14T00:00:00-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/talk/</loc>
     <lastmod>2021-06-14T00:00:00-04:00</lastmod>
   </url>
   
@@ -125,38 +210,8 @@
   </url>
   
   <url>
-    <loc>https://patanjali.github.io/authors/swarup-bhunia/</loc>
-    <lastmod>2021-04-07T20:26:19-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://patanjali.github.io/publication/yang-2021-trusted/</loc>
     <lastmod>2021-04-07T20:26:19-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/publication_types/2/</loc>
-    <lastmod>2020-12-07T06:41:32-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/authors/amit-ranjan-trivedi/</loc>
-    <lastmod>2020-12-07T06:41:32-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/authors/fengchao-zhang/</loc>
-    <lastmod>2020-12-07T06:41:32-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/categories/journal/</loc>
-    <lastmod>2020-12-07T06:41:32-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -165,25 +220,7 @@
   </url>
   
   <url>
-    <loc>https://patanjali.github.io/authors/shubhra-deb-paul/</loc>
-    <lastmod>2020-12-07T06:41:32-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://patanjali.github.io/publication_types/3/</loc>
-    <lastmod>2020-12-06T06:41:32-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/authors/abhishek-anil-nair/</loc>
-    <lastmod>2020-12-06T06:41:32-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://patanjali.github.io/authors/chester-rebeiro/</loc>
     <lastmod>2020-12-06T06:41:32-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -396,12 +433,76 @@
   </url>
   
   <url>
+    <loc>https://patanjali.github.io/project/proj5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/tags/ai-guided-cad/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/project/proj4/</loc>
+  </url>
+  
+  <url>
     <loc>https://patanjali.github.io/author/</loc>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://patanjali.github.io/project/proj1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/tags/cad-for-trust/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/categories/cad-for-vlsi/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/tags/cad-for-vlsi/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/experience/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/categories/hardware-security/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/tags/internet-of-things/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/project/proj2/</loc>
+  </url>
+  
+  <url>
     <loc>https://patanjali.github.io/author/patanjali/</loc>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/experience/exp1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/project/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://patanjali.github.io/project/proj3/</loc>
   </url>
   
   <url>

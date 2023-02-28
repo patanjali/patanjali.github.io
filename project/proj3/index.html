@@ -20,14 +20,14 @@
   
   
 
-  <meta name="author" content="Patanjali SLPSK">
+  
 
   
   
   
     
   
-  <meta name="description" content="Fault attacks are one of the growing physical attacks exploits that target edge devices. The attacker introduces faults at specific locations in the device during encryption thereby corrupting the result of the operation. These faults are introduced by either manipulating the system clock, the power supply or by using a laser. Traditional countermeasures rely on redundant logic, parity checking which introduce area and power overheads. In this work, we explore the idea of gate-sizing as a countermeasure for fault attacks.">
+  <meta name="description" content="Embedded devices have started playing an increasing role in our day-to-day lives, due to the emergence of IoT, leading to the question ”Can these devices be trusted?”. The emergence of side-channel attacks in the recent years has shown that the underlying hardware too has to be secured. This quest for quantifying the resilience of the device to the side channels has led researchers to develop several statistical metrics. However, these metrics i) quantify the security of a manufactured device, thereby functioning only in a preventive capacity ii) they do not explore or identify the root cause of the vulnerability.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://patanjali.github.io/project/proj3/">
@@ -135,20 +135,19 @@
   
   <meta property="og:site_name" content="Patanjali SLPSK">
   <meta property="og:url" content="https://patanjali.github.io/project/proj3/">
-  <meta property="og:title" content="SecureSizer: An gate-sizing framework for mitigating fault attacks in hardware | Patanjali SLPSK">
-  <meta property="og:description" content="Fault attacks are one of the growing physical attacks exploits that target edge devices. The attacker introduces faults at specific locations in the device during encryption thereby corrupting the result of the operation. These faults are introduced by either manipulating the system clock, the power supply or by using a laser. Traditional countermeasures rely on redundant logic, parity checking which introduce area and power overheads. In this work, we explore the idea of gate-sizing as a countermeasure for fault attacks."><meta property="og:image" content="https://patanjali.github.io/img/icon-192.png">
+  <meta property="og:title" content="RTL-level Security estimation of digital designs  | Patanjali SLPSK">
+  <meta property="og:description" content="Embedded devices have started playing an increasing role in our day-to-day lives, due to the emergence of IoT, leading to the question ”Can these devices be trusted?”. The emergence of side-channel attacks in the recent years has shown that the underlying hardware too has to be secured. This quest for quantifying the resilience of the device to the side channels has led researchers to develop several statistical metrics. However, these metrics i) quantify the security of a manufactured device, thereby functioning only in a preventive capacity ii) they do not explore or identify the root cause of the vulnerability."><meta property="og:image" content="https://patanjali.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2019-06-03T06:12:56-07:00">
   
-  <meta property="article:modified_time" content="2019-06-03T06:12:56-07:00">
   
-
   
 
   
 
-  <title>SecureSizer: An gate-sizing framework for mitigating fault attacks in hardware | Patanjali SLPSK</title>
+  
+
+  <title>RTL-level Security estimation of digital designs  | Patanjali SLPSK</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -318,6 +317,63 @@
         
         
 
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/files/diversity.pdf">
+            
+            <span>Diversity Statement</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/files/research.pdf">
+            
+            <span>Research Statement</span>
+            
+          </a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link" href="/files/teaching.pdf">
+            
+            <span>Teaching Statement</span>
+            
+          </a>
+        </li>
+
+        
+        
+
       
       </ul>
       <ul class="navbar-nav ml-auto">
@@ -367,7 +423,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">SecureSizer: An gate-sizing framework for mitigating fault attacks in hardware</h1>
+  <h1 itemprop="name">RTL-level Security estimation of digital designs </h1>
 
   
 
@@ -376,8 +432,8 @@
 
 
 
-<meta content="2019-06-03 06:12:56 -0700 -0700" itemprop="datePublished">
-<meta content="2019-06-03 06:12:56 -0700 -0700" itemprop="dateModified">
+<meta content="" itemprop="datePublished">
+<meta content="" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -390,7 +446,7 @@
     
       
     
-    <time>Jun 3, 2019</time>
+    <time>Jan 1, 0001</time>
   </span>
   
 
@@ -406,7 +462,7 @@
   <span class="middot-divider"></span>
   <span class="article-categories">
     <i class="fas fa-folder"></i>
-    <a href="/categories/hardware-security/">Hardware Security</a></span>
+    <a href="/categories/cad-for-vlsi/">CAD for VLSI</a></span>
   
 
   
@@ -441,7 +497,12 @@
   <div class="article-container">
 
     <div class="article-style" itemprop="articleBody">
-      <p>Fault attacks are one of the growing physical attacks exploits that target edge devices. The attacker introduces faults at specific locations in the device during encryption thereby corrupting the result of the operation. These faults are introduced by either manipulating the system clock, the power supply or by using a laser. Traditional countermeasures rely on redundant logic, parity checking which introduce area and power overheads. In this work, we explore the idea of gate-sizing as a countermeasure for fault attacks. We observe that by modifying the parameters of the vulnerable gates, the side-channel resistance of the design improves. We leverage this observation and propose SecureSizer, a gate-sizing technique to improve the side-channel resistance of the design. We show that the overheads of the proposed technique are less when compared to traditional countermeasures.</p>
+      <p>Embedded devices have started playing an increasing role in our day-to-day lives, due to the emergence of IoT, leading to the question ”Can these devices be trusted?”. The emergence of side-channel attacks in the recent years has shown that the underlying hardware too has to be secured. This quest for quantifying the resilience of the device to the side channels has led researchers to develop several statistical metrics. However, these metrics i) quantify the security of a manufactured device, thereby functioning only in a preventive capacity ii) they do not explore or identify the root cause of the vulnerability.
+<strong>Critical Outcomes:</strong>
+1. Identifying the optimizations/changes made to the device during the transition from a High level language (eg: Verilog) to actual hardware and quantifying its impact to the security of the device.
+2. Propose a security aware power optimization scheme that takes in to account the security metric along with the other design constraints (KARNA ICCAD&rsquo;19&rsquo;).
+3. Developed an RTL-level framework that would help designers map the vulnerable RTL-code to their corresponding gate-level or layout-level counterpart (SOLOMON DATE’2018).
+4. Developed a gate-sizing framework for optimization gates to meet both security and power objectives (AVATAR ASPDAC’2022).</p>
 
     </div>
 
@@ -449,11 +510,9 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/tags/fault-attacks/">Fault attacks</a>
-  
   <a class="badge badge-light" href="/tags/hardware-security/">Hardware Security</a>
   
-  <a class="badge badge-light" href="/tags/eda-for-security/">EDA for security</a>
+  <a class="badge badge-light" href="/tags/cad-for-vlsi/">CAD for VLSI</a>
   
 </div>
 
@@ -476,13 +535,13 @@
 <div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
   
-  <img class="portrait mr-3" src="/author/patanjali/avatar_hu72c2b6df935f3b9dd209d3a60a2b0697_708971_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+  <img class="portrait mr-3" src="/author/patanjali/avatar_hu315675f602b6b7aba27cf7dc5a54933e_93172_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
   
 
   <div class="media-body">
-    <h5 class="card-title" itemprop="name"><a href="/authors/patanjali">Patanjali SLPSK</a></h5>
-    <h6 class="card-subtitle">Ph.D. student</h6>
-    <p class="card-text" itemprop="description">My research interests include energy efficient computing and hardware security.</p>
+    <h5 class="card-title" itemprop="name"><a href="/authors/patanjali"></a></h5>
+    <h6 class="card-subtitle">Postdoctoral Researcher</h6>
+    <p class="card-text" itemprop="description">I like working on problems related to Hardware security,and energy efficient computing</p>
     <ul class="network-icon" aria-hidden="true">
       
       

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/experience/</link>
+    <description>Recent content in Experiences on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://patanjali.github.io/experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>PhD</title>
+      <link>https://patanjali.github.io/experience/exp1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patanjali.github.io/experience/exp1/</guid>
+      <description>+++ title = &amp;ldquo;Intern&amp;rdquo; company = &amp;ldquo;IBM Systems Labs Bangalore&amp;rdquo; company_url = &amp;ldquo;&amp;rdquo; location = &amp;ldquo;Bangalore&amp;rdquo; description = &amp;ldquo;&amp;rdquo;&amp;rdquo; Developing Distributed EDA framework.
+In a typical design flow, multiple tools and scripts are used. Each tool reads the input, its associated constraints, processes and generates data as output. At present there is no mechanism to represent this data in a database which limits the possibility of live query on the data and get a useful information and value add out of it.</description>
+    </item>
+    
+  </channel>
+</rss>

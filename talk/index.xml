@@ -6,10 +6,19 @@
     <description>Recent content in Talks on Patanjali SLPSK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 23 Jan 2023 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="https://patanjali.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TREEHOUSE:Secure 3DIC Design Architecture</title>
+      <link>https://patanjali.github.io/talk/talk2/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/talk/talk2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Trojan Benchmarking -CAD for Assurance Lecture 4</title>

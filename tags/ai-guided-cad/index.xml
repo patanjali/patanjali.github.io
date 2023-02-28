@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI guided CAD on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/tags/ai-guided-cad/</link>
+    <description>Recent content in AI guided CAD on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://patanjali.github.io/tags/ai-guided-cad/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A distributed EDA framework for scalable design management </title>
+      <link>https://patanjali.github.io/project/proj5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patanjali.github.io/project/proj5/</guid>
+      <description>Internship: IBN System Development Labs India
+In a typical design flow, multiple tools and scripts are used. Each tool reads the input, its associated constraints, processes and generates data as output. At present there is no mechanism to represent this data in a database which limits the possibility of live query on the data and get a useful information and value add out of it. For example: to find a timing critical path it requires to load a timer which in turn processes the input and eventually writes out report.</description>
+    </item>
+    
+    <item>
+      <title>AI-guided heurisitics for Leakage Power Minimzation in Digital Circuits </title>
+      <link>https://patanjali.github.io/project/proj4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patanjali.github.io/project/proj4/</guid>
+      <description>Power optimization techniques in a VLSI flow typically end up being the performance bottlenecks leading to a large turn around time for the following reasons 1. Scalability: The design typically spans millions and millions of gates with different operating conditions leading to a large search space. 2. Portability: The constraints vary across technology nodes hindering reusability of solutions. ML models are inherently trained to operate on large datasets and navigate a complex search space.</description>
+    </item>
+    
+  </channel>
+</rss>

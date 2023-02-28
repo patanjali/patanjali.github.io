@@ -6,10 +6,37 @@
     <description>Recent content in Chester Rebeiro on Patanjali SLPSK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Dec 2020 06:41:32 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2023 06:41:32 -0700</lastBuildDate>
     
 	<atom:link href="https://patanjali.github.io/authors/chester-rebeiro/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TREEHOUSE: A Secure Asset Management Infrastructure For Protecting 3DIC Designs</title>
+      <link>https://patanjali.github.io/publication/slpsk-2022-treehouse/</link>
+      <pubDate>Thu, 23 Feb 2023 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2022-treehouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGNED: A Challenge-Response Scheme for Electronic Hardware Watermarking</title>
+      <link>https://patanjali.github.io/publication/slpsk-2022-signed/</link>
+      <pubDate>Fri, 18 Nov 2022 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2022-signed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avatar: Reinforcing Fault Attack Countermeasures in EDA with Fault Transformations</title>
+      <link>https://patanjali.github.io/publication/slpsk-2022-avatar/</link>
+      <pubDate>Mon, 17 Jan 2022 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2022-avatar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>SIGNED: A Challenge-Response Based Interrogation Scheme for Simultaneous Watermarking and Trojan Detection</title>

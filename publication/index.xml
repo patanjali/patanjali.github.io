@@ -6,10 +6,46 @@
     <description>Recent content in Publications on Patanjali SLPSK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Jan 2022 20:26:12 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2023 06:41:32 -0700</lastBuildDate>
     
 	<atom:link href="https://patanjali.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TREEHOUSE: A Secure Asset Management Infrastructure For Protecting 3DIC Designs</title>
+      <link>https://patanjali.github.io/publication/slpsk-2022-treehouse/</link>
+      <pubDate>Thu, 23 Feb 2023 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2022-treehouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGNED: A Challenge-Response Scheme for Electronic Hardware Watermarking</title>
+      <link>https://patanjali.github.io/publication/slpsk-2022-signed/</link>
+      <pubDate>Fri, 18 Nov 2022 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2022-signed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RIHANN: Remote IoT Hardware Authentication With Intrinsic Identifiers</title>
+      <link>https://patanjali.github.io/publication/shubhra-2022-rihann/</link>
+      <pubDate>Tue, 02 Aug 2022 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/shubhra-2022-rihann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avatar: Reinforcing Fault Attack Countermeasures in EDA with Fault Transformations</title>
+      <link>https://patanjali.github.io/publication/slpsk-2022-avatar/</link>
+      <pubDate>Mon, 17 Jan 2022 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2022-avatar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Depending on HTTP/2 for Privacy? Good Luck!</title>

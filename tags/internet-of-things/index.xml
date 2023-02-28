@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet of Things on Patanjali SLPSK</title>
+    <link>https://patanjali.github.io/tags/internet-of-things/</link>
+    <description>Recent content in Internet of Things on Patanjali SLPSK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://patanjali.github.io/tags/internet-of-things/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lightweight Authentication Protocols for securing IoT Devices </title>
+      <link>https://patanjali.github.io/project/proj2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patanjali.github.io/project/proj2/</guid>
+      <description>Counterfeit integrated circuits (ICs) have become a significant security concern in the semiconductor industry as a result of the increasingly complex and distributed nature of the supply chain. These counterfeit chips may result in performance degradation, profit reduction, and reputation risk for the manufacturer. Therefore, developing effective countermeasures against such malpractices is becoming severely crucial. As a part of our research effort we develop lightweight authentication techniques using Physically Unclonable Functions (PUFs) and watermarks for detecting counterfeit ICs.</description>
+    </item>
+    
+  </channel>
+</rss>

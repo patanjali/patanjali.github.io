@@ -6,10 +6,55 @@
     <description>Recent content in Hardware Security on Patanjali SLPSK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jun 2021 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 23 Feb 2023 06:41:32 -0700</lastBuildDate>
     
 	<atom:link href="https://patanjali.github.io/tags/hardware-security/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>TREEHOUSE: A Secure Asset Management Infrastructure For Protecting 3DIC Designs</title>
+      <link>https://patanjali.github.io/publication/slpsk-2022-treehouse/</link>
+      <pubDate>Thu, 23 Feb 2023 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2022-treehouse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TREEHOUSE:Secure 3DIC Design Architecture</title>
+      <link>https://patanjali.github.io/talk/talk2/</link>
+      <pubDate>Mon, 23 Jan 2023 00:00:00 -0500</pubDate>
+      
+      <guid>https://patanjali.github.io/talk/talk2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SIGNED: A Challenge-Response Scheme for Electronic Hardware Watermarking</title>
+      <link>https://patanjali.github.io/publication/slpsk-2022-signed/</link>
+      <pubDate>Fri, 18 Nov 2022 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2022-signed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RIHANN: Remote IoT Hardware Authentication With Intrinsic Identifiers</title>
+      <link>https://patanjali.github.io/publication/shubhra-2022-rihann/</link>
+      <pubDate>Tue, 02 Aug 2022 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/shubhra-2022-rihann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Avatar: Reinforcing Fault Attack Countermeasures in EDA with Fault Transformations</title>
+      <link>https://patanjali.github.io/publication/slpsk-2022-avatar/</link>
+      <pubDate>Mon, 17 Jan 2022 06:41:32 -0700</pubDate>
+      
+      <guid>https://patanjali.github.io/publication/slpsk-2022-avatar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automated Trojan Benchmarking -CAD for Assurance Lecture 4</title>
@@ -99,6 +144,33 @@
       
       <guid>https://patanjali.github.io/publication/krishnakumar-2018-gandalf/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Implementation of Secure Silicon</title>
+      <link>https://patanjali.github.io/project/proj1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patanjali.github.io/project/proj1/</guid>
+      <description>The primary goal of the DARPA AISS project is to develop secure System on Chips (SoCs) that can be widely used by designers with varying range of security expertise. However, it is also crucial to ensure that the security architectures are compliant with the power, performance, and area requirements. Critical Outcomes produced 1. Developed and demonstrated a proof-of-concept implementation a complete SoC implementation with hardware and firmware support for integrating PUF, Logic Locking protocols, and IP watermarking techniques.</description>
+    </item>
+    
+    <item>
+      <title>Lightweight Authentication Protocols for securing IoT Devices </title>
+      <link>https://patanjali.github.io/project/proj2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patanjali.github.io/project/proj2/</guid>
+      <description>Counterfeit integrated circuits (ICs) have become a significant security concern in the semiconductor industry as a result of the increasingly complex and distributed nature of the supply chain. These counterfeit chips may result in performance degradation, profit reduction, and reputation risk for the manufacturer. Therefore, developing effective countermeasures against such malpractices is becoming severely crucial. As a part of our research effort we develop lightweight authentication techniques using Physically Unclonable Functions (PUFs) and watermarks for detecting counterfeit ICs.</description>
+    </item>
+    
+    <item>
+      <title>RTL-level Security estimation of digital designs </title>
+      <link>https://patanjali.github.io/project/proj3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://patanjali.github.io/project/proj3/</guid>
+      <description>Embedded devices have started playing an increasing role in our day-to-day lives, due to the emergence of IoT, leading to the question ”Can these devices be trusted?”. The emergence of side-channel attacks in the recent years has shown that the underlying hardware too has to be secured. This quest for quantifying the resilience of the device to the side channels has led researchers to develop several statistical metrics. However, these metrics i) quantify the security of a manufactured device, thereby functioning only in a preventive capacity ii) they do not explore or identify the root cause of the vulnerability.</description>
     </item>
     
   </channel>
