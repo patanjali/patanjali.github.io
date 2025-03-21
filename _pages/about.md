@@ -1,17 +1,18 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Assitant Professor, School of Computer and Cyber Sciences, Augusta, Georgia
+#<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p> School of Computer and Cyber Sciences</p>
+    <p>100 Grace Hopper Lane</p>
+    <p>Augusta, Georgia 30904</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -21,14 +22,42 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
+talks:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<p>
+Hi, I am an Assistant Professor at the Department of Cybersecurity Engineering at Augusta. Previously, I worked as a Postdoctoral Researcher at University of Florida where I worked with Dr. Swarup Bhunia. I did my Ph.D. at IIT Madras,  India where I was advised by Dr. Kamakoti Veezhinathan. 
+</p>
+<p>
+My research focuses on addressing a fundamental question: <b>“How can we ensure af-
+fordable security assurances for a given hardware design in the context of an untrusted
+supply chain while respecting the design constraints at each level of abstraction?”</b>
+These themes are crucial in the design of hardware for IoT, AI, and data-centre ap-
+plications, where security resources are often scarce. In this context, I have explored
+applying statistical learning techniques to tackle various aspects of system design. My
+research primarily focuses on building Machine learning (ML) models to tackle the
+security challenges in different design abstractions and also in different stages of the
+hardware supply chain. I have also worked on using machine learning techniques for
+designing energy-efficient systems and applying AI techniques for network security. I
+wish to continue contributing to the following research areas:
+</p>
+<ul>
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<li> 
+<b> AI for System Design: </b> Data modelling and developing AI-models for de-
+signing the next generation of hardware systems 
+</li>
+<li>
+<b> AI for Hardware Security:</b> Data modelling and AI-models for efficient coun-
+termeasure evaluation, vulnerability detection and AI-assisted countermeasures
+for mitigating higher-order supply chain threats
+</li>
+<li>
+<b> Cybersecurity for AI: </b> Developing metrics and algorithms for secure devel-
+opment, depolyment and operations of AI-systems
+</li>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+

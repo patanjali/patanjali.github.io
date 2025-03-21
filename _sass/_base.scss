@@ -17,6 +17,9 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 hr {
@@ -98,6 +101,7 @@ blockquote {
     p,
     strong {
       color: var(--global-warning-block-text);
+
     }
 
     h1,
@@ -203,6 +207,7 @@ ul.task-list input[type="checkbox"] {
     p {
       display: inline-block;
       margin: 0;
+
     }
   }
 }

@@ -1,200 +1,133 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Patanjali Sristi (SLPSK)",
+    "label": "Asssitant Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+    "email": "patanjali.sristi@augusta.edu",
+    "phone": " ",
+    "url": "https://patanjali.github.io",
+    "lab url": "Under Construction",
+    "google scholar": "https://scholar.google.com/citations?user=c0W4tUkAAAAJ&hl=en",
+     "location": {
+      "address": "100 Grace Hopper Lane",
+      "postalCode": "GA 30904",
+      "city": "Augusta",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "Georgia"
+    }
+
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": " School of Computer and Cyber Sciences, Augusta University",
+      "position": " Assistant Professor",
+      "url": "https://www.augusta.edu/ccs/",
+      "startDate": "2024-01-01",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Hardware Security, Systems Security, CAD for VLSI"]
     },
+
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": " Warren B. Nelms Institute for Connected World, Department of Electrical Engineering, University of Florida",
+      "position": " Postdoctoral Researcher",
+      "url": "https://iot.institute.ufl.edu",
+      "startDate": "2019-11-18",
+      "endDate": "2023-05-31",
+      "summary": "Worked with Dr. Swarup Bhunia on research problems related to Hardware Security, System-on-Chip Security and developing attacks/countermeasures for IoT devices",
+      "highlights": ["Hardware Security, Systems Security"]
     },
+
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "name": "Indian Institute of Technology, Madras ",
+      "position": " Graduate Teaching and Research Assistant",
+      "url": "https://www.cse.iitm.ac.in/lab_details.php?arg=OQ==",
+      "startDate": "2012-01-01",
+      "endDate": "2019-11-06",
+      "summary": "Was Advised by Dr. Kamakoti Veezhinathan. Thesis topic: Gate-sizing for Energy Efficient and Secure Digital Design. Dual Masters and Ph.D. Degree (Converted from MS to PhD in April 2014).",
+      "highlights": ["Hardware Security, Systems Security"]
     },
+
+
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": " IBM System Design Labs, Bangalore, India",
+      "position": " Research Intern",
+      "url": "",
+      "startDate": "2015-12-31",
+      "endDate": "2015-06-01",
+      "summary": "Distributed EDA framework for scalable VLSI design management",
+      "highlights": ["Artificial Intelligence, Distributed Systems, CAD for VLSI"]
     }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
+
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+    
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Hardware Security",
+        "Microarchitectural Security",
+        "CAD for VLSI",
+        "AI for System Design",
+        "AI for Security"
       ]
     }
   ],
-  "references": [
+
+  "education": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "institution": "IIT Madras",
+      "location": "Chennai, India",
+      "url": "https://www.iitm.ac.in/",
+      "area": "Electronic Design Automation, Energy Efficient Computing, Systems Security",
+      "studyType": "PhD",
+      "startDate": "2012-01-01",
+      "endDate": "2019-11-06",
+      "Thesis title": "Gate-sizing for Energy Efficient and Secure Digital Design"
     },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+
+ {
+      "institution": "IIT Madras",
+      "location": "Chennai, India",
+      "url": "https://www.iitm.ac.in/",
+      "area": "Energy Efficient Computing",
+      "studyType": "MS",
+      "startDate": "2012-01-01",
+      "endDate": "2019-11-06"
+    },
+ {
+      "institution": "Pondicherry Engineering College",
+      "location": "Pondicherry, India",
+      "url": "https://ptuniv.edu.in",
+      "area": "Electronics and Communication Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2007-06-01",
+      "endDate": "2011-05-31"
     }
   ],
-  "projects": [
+    "publications": [
+       
+         
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Establishing trust in untrusted IC testing and provisioning environment",
+      "publisher": "US Patent",
+      "releaseDate": "2024-02-13",
+      "url": "https://patents.google.com/patent/US11899827B2/en",
+      "summary": "A system for secure testing and provisioning of an integrated circuit (IC) includes, in part, a secure reconfigurable key provisioning architecture (SLEEVE) module disposed in the IC, and a secure asset provisioning hardware entity (SAPHE) module. The IC may include, in part, a modified IEEE 1500 wrapper to control its operation modes. The SLEEVE module may include, in part, an encoding/decoding module and an unlocking module. The encoding/decoding module may include, in part, a decode key stream cipher module, an encode key stream cipher module, Seed Key programmable linear-feedback shift registers (LFSRs), Initialization Vector (IV) LFSRs, and configuration registers. The encoding/decoding module may be configured to generate key bits for decoding and encoding inputs and outputs of the IC. The unlocking module may include, in part, a pattern matching block and a counter. The unlocking module may be configured to enable write access to the configuration registers. The SAPHE module may include, in part, a microcontroller, a logging module, a provisioning module, and a communications module. The SAPHE module may be configured to interact with the IC to obtain a status of the IC during a testing and provisioning process. The logging module may include, in part, dedicated memory segments to store values for configuring the SLEEVE module and unlocking patterns for enabling write access to the configuration registers. The provisioning module may include, in part, a content accessible memory (CAM) module to store encrypted test patterns and encoded asset provisioning vectors for intellectual property (IP) blocks in the IC."
+    },
+    {
+      "name": "IOLock: An Input/Output Locking Scheme for Protection Against Reverse Engineering Attacks ",
+      "publisher": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+      "releaseDate": "2023-12-12",
+      "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10354011 ",
+      "summary": "Reverse engineering (RE) of hardware designs poses a significant threat to the modern distributed electronics supply chain. RE can be performed at both chip and printed circuit board (PCB) levels by using structural, functional, or combined analysis techniques. Recent studies on artificial intelligence (AI)-inspired RE techniques have seen a drastic increase in the effectiveness of such attacks. While various countermeasures, e.g., logic locking (LL) at the chip level and camouflaging at the board level, have been studies to combat RE, the advent of Boolean satisfiability (SAT)-based functional query at chip level and 3-D imaging attacks at board level has shown that these protections can be easily bypassed. We observe that a common factor that contributes to the success of these attacks at both chip and board levels is the ability of an attacker to observe the input/output (I/O) patterns of a working system. Based on this observation, we present a novel locking scheme called IOLock that can effectively prevent access to golden I/O behavior of a working system. IOLock restricts access to the actual I/Os of the chips in a PCB by introducing a low-overhead key management unit (KMU) that works in conjunction with internal encryption/decryption modules near the I/O ports. The encryption/decryption modules are designed to work with the existing joint test action group (JTAG) infrastructure. IOLock can be used in standalone mode or in conjunction with another LL scheme to enhance the overall security of the design. We evaluate the security guarantees offered by IOLock theoretically, through simulation, and hardware measurements. We show that IOLock provides robust protection against both chip-level and PCB-level RE attacks while incurring minimal design overhead."
+    },
+    {
+      "name": "MeLPUF: Memory-in-logic PUF structures for low-overhead IC authentication",
+      "publisher": "IEEE Physical Assurance and Inspection of Electronics (PAINE)",
+      "releaseDate": "2023-10-24",
+      "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10317943",
+      "summary": "Physically Unclonable Functions (PUFs) are used for securing electronic devices across the implementation spectrum ranging from Field Programmable Gate Array (FPGA) to system on chips (SoCs). However, existing PUF implementations often suffer from one or more significant deficiencies: (1) Significant design overhead; (2) Difficulty to configure and integrate based on application-specific requirements; (3) Vulnerability to model-building attacks; and (4) Spatial locality to a specific region of a chip. These factors limit their application in the authentication of designs used in various applications. In this work, we propose MeLPUF: Memory-in-Logic PUF; a low-overhead distributed PUF that leverages the existing logic gates in a design to create cross-coupled inverters (i.e., memory cells), in a logic circuit as an entropy source. It exploits these memory cells' power-up states as the source of entropy to generate device-specific unique fingerprints. A dedicated control signal governs these on-demand memory cells. They can be dispersed across the combinational logic of a design to achieve distributed authentication. They can also be synthesized with a standard logic synthesis tool to meet the target area, power, and performance constraints. We demonstrate the scalability of MeLPUF by aggregating power-up states from multiple memory cells, thus creating PUF signatures or digital identifiers of varying lengths. Our analysis shows the high quality of the PUF in terms of uniqueness, randomness, and robustness while incurring modest overhead."
     }
   ]
-}
+
+  }
