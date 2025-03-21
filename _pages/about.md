@@ -27,22 +27,26 @@ talks:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
 <p>
 Hi, I am an Assistant Professor at the Department of Cybersecurity Engineering at Augusta. Previously, I worked as a Postdoctoral Researcher at University of Florida where I worked with Dr. Swarup Bhunia. I did my Ph.D. at IIT Madras,  India where I was advised by Dr. Kamakoti Veezhinathan. 
 </p>
+
 <p>
-My research focuses on addressing a fundamental question: <b>“How can we ensure af-
-fordable security assurances for a given hardware design in the context of an untrusted
+My research focuses on addressing a fundamental question:
+
+<b>“How can we design, measure and build efficient and affordable security assurances for a given hardware design in the context of an untrusted
 supply chain while respecting the design constraints at each level of abstraction?”</b>
-These themes are crucial in the design of hardware for IoT, AI, and data-centre ap-
-plications, where security resources are often scarce. In this context, I have explored
-applying statistical learning techniques to tackle various aspects of system design. My
-research primarily focuses on building Machine learning (ML) models to tackle the
-security challenges in different design abstractions and also in different stages of the
-hardware supply chain. I have also worked on using machine learning techniques for
-designing energy-efficient systems and applying AI techniques for network security. I
-wish to continue contributing to the following research areas:
+
+These themes are crucial in the design of hardware for IoT, AI, and data-centre applications, where security resources are often scarce. In this context, I have explored
+applying statistical learning techniques to tackle various aspects of system design. My research primarily focuses on building Machine learning (ML) models to tackle the
+security challenges in different design abstractions and also in different stages of the hardware supply chain. I have also worked on using machine learning techniques for
+designing energy-efficient systems and applying AI techniques for network security. 
+
+
+I wish to continue contributing to the following research areas:
 </p>
+
 <ul>
 
 <li> 
