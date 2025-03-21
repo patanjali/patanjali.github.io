@@ -437,7 +437,16 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project.html";
-            },},{
+            },},{id: "talks-delivered-a-webinar-on-ai-guided-heuristics-for-trojan-attacks-at-ieee-ceda-hsttc-organized-webinar-on-cad-for-assurance",
+          title: 'Delivered a Webinar on AI-guided heuristics for Trojan Attacks at IEEE CEDA/HSTTC organized...',
+          description: "",
+          section: "Talks",},{id: "talks-delivered-a-demonstration-on-secure-soc-architectures-at-northrop-grumman",
+          title: 'Delivered a demonstration on Secure SoC Architectures at Northrop Grumman.',
+          description: "",
+          section: "Talks",},{id: "talks-delivered-a-talk-on-cybersecurity-and-system-design-at-sony-finishing-school-iitm-pravaratak",
+          title: 'Delivered a talk on Cybersecurity and System Design at Sony Finishing School. IITM...',
+          description: "",
+          section: "Talks",},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
