@@ -28,40 +28,43 @@ talks:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p>
-Hi, I am an Assistant Professor at the Department of Cybersecurity Engineering at Augusta. Previously, I worked as a Postdoctoral Researcher at University of Florida where I worked with Dr. Swarup Bhunia. I did my Ph.D. at IIT Madras,  India where I was advised by Dr. Kamakoti Veezhinathan. 
-</p>
+<div style="text-align: justify">
 
 <p>
-My research focuses on addressing a fundamental question:
-
-<b>“How can we design, measure and build efficient and affordable security assurances for a given hardware design in the context of an untrusted
-supply chain while respecting the design constraints at each level of abstraction?”</b>
-
-These themes are crucial in the design of hardware for IoT, AI, and data-centre applications, where security resources are often scarce. In this context, I have explored
-applying statistical learning techniques to tackle various aspects of system design. My research primarily focuses on building Machine learning (ML) models to tackle the
-security challenges in different design abstractions and also in different stages of the hardware supply chain. I have also worked on using machine learning techniques for
-designing energy-efficient systems and applying AI techniques for network security. 
-
-
-I wish to continue contributing to the following research areas:
+Hi, I am an Assistant Professor at the Department of Cybersecurity Engineering at Augusta.
+<br>
+<br>
+Previously, I worked as a Postdoctoral Researcher at University of Florida where I worked with Dr. Swarup Bhunia. I did my Ph.D. at IIT Madras, India where I was advised by Dr. Kamakoti Veezhinathan. 
 </p>
+<br>
+<p>
+My research focuses on addressing the following question:
+<br>
+<span style="font-weight:bold">
+How can we design, measure and build efficient and affordable security assurances for a given hardware design in the context of an untrusted supply chain while respecting the design constraints at each level of abstraction?
+</span>
 
+
+<br>
+
+I work on the following research areas, if you are interested in working with me or would like to more about my research, please feel free to reach out:
+</p>
+<br>
 <ul>
 
 <li> 
-<b> AI for System Design: </b> Data modelling and developing AI-models for de-
+<span style="font-weight:bold"> AI for System Design: </span> Data modelling and developing AI-models for de-
 signing the next generation of hardware systems 
 </li>
 <li>
-<b> AI for Hardware Security:</b> Data modelling and AI-models for efficient coun-
+<span style="font-weight:bold"> AI for Hardware Security:</span> Data modelling and AI-models for efficient coun-
 termeasure evaluation, vulnerability detection and AI-assisted countermeasures
 for mitigating higher-order supply chain threats
 </li>
 <li>
-<b> Cybersecurity for AI: </b> Developing metrics and algorithms for secure devel-
+<span style="font-weight:bold"> Cybersecurity for AI: </span> Developing metrics and algorithms for secure devel-
 opment, depolyment and operations of AI-systems
 </li>
 
 
-
+</div>
