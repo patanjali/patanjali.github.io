@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assitant Professor, School of Computer and Cyber Sciences, Augusta, Georgia
+subtitle: Assistant Professor, School of Computer and Cyber Sciences, Augusta, Georgia
 #<a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
