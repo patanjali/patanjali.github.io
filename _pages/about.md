@@ -67,4 +67,4 @@ opment, depolyment and operations of AI-systems
 </li>
 
 
-</div>
+
