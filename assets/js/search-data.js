@@ -443,7 +443,7 @@ ninja.data = [{
           section: "Talks",},{id: "talks-delivered-a-demonstration-on-secure-soc-architectures-at-northrop-grumman",
           title: 'Delivered a demonstration on Secure SoC Architectures at Northrop Grumman.',
           description: "",
-          section: "Talks",},{id: "talks-delivered-a-talk-on-cybersecurity-and-system-design-at-sony-finishing-school-iitm-pravaratak",
+          section: "Talks",},{id: "talks-delivered-a-talk-on-cybersecurity-and-system-design-at-sony-finishing-school-iitm-pravartak",
           title: 'Delivered a talk on Cybersecurity and System Design at Sony Finishing School. IITM...',
           description: "",
           section: "Talks",},{
