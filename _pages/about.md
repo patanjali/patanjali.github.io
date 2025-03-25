@@ -62,8 +62,11 @@ for mitigating higher-order supply chain threats
 
 <br>
 <br>
+<p>
+  
 Previously, I worked as a Postdoctoral Researcher at University of Florida where I worked with Dr. Swarup Bhunia. I did my Ph.D. at IIT Madras, India where I was advised by Dr. Kamakoti Veezhinathan. 
 </p>
+
 <br>
 
 
