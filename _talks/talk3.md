@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 Delivered a talk on Cybersecurity and System Design at Sony Finishing School.
-IITM Pravaratak. 
+IITM Pravartak. 
 
