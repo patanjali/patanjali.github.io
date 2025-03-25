@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Conducted a month long Cybersecurity workshop for Indian Army in conjuction with Pravartak and IIT Madras.
+Conducted a month long Cybersecurity workshop for Indian Army in conjunction with Pravartak and IIT Madras.
