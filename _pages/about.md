@@ -10,7 +10,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> School of Computer and Cyber Sciences</p>
+    <p> RV 2817, School of Computer and Cyber Sciences</p>
     <p>100 Grace Hopper Lane</p>
     <p>Augusta, Georgia 30904</p>
 
@@ -34,9 +34,6 @@ talks:
 Hi, I am an Assistant Professor at the Department of Cybersecurity Engineering at Augusta.
 <br>
 <br>
-Previously, I worked as a Postdoctoral Researcher at University of Florida where I worked with Dr. Swarup Bhunia. I did my Ph.D. at IIT Madras, India where I was advised by Dr. Kamakoti Veezhinathan. 
-</p>
-<br>
 <p>
 My research focuses on addressing the following question:
 <br>
@@ -53,18 +50,21 @@ I work on the following research areas, if you are interested in working with me
 <ul>
 
 <li> 
-<span style="font-weight:bold"> AI for System Design: </span> Data modelling and developing AI-models for de-
-signing the next generation of hardware systems 
+<span style="font-weight:bold"> AI for System Design: </span> Data modelling and developing AI-models for designing the next generation of hardware systems 
 </li>
 <li>
-<span style="font-weight:bold"> AI for Hardware Security:</span> Data modelling and AI-models for efficient coun-
-termeasure evaluation, vulnerability detection and AI-assisted countermeasures
+<span style="font-weight:bold"> AI for Hardware Security:</span> Data modelling and AI-models for efficient countermeasure evaluation, vulnerability detection and AI-assisted countermeasures
 for mitigating higher-order supply chain threats
 </li>
 <li>
-<span style="font-weight:bold"> Cybersecurity for AI: </span> Developing metrics and algorithms for secure devel-
-opment, depolyment and operations of AI-systems
+<span style="font-weight:bold"> Cybersecurity for AI: </span> Developing metrics and algorithms for secure development, deployment and operations of AI-systems
 </li>
+
+<br>
+<br>
+Previously, I worked as a Postdoctoral Researcher at University of Florida where I worked with Dr. Swarup Bhunia. I did my Ph.D. at IIT Madras, India where I was advised by Dr. Kamakoti Veezhinathan. 
+</p>
+<br>
 
 
 
