@@ -386,8 +386,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/hwsecworkshop.html";
-            },},{id: "news-conducted-a-month-long-cybersecurity-workshop-for-indian-army-in-conjuction-with-pravartak-and-iit-madras",
-          title: 'Conducted a month long Cybersecurity workshop for Indian Army in conjuction with Pravartak...',
+            },},{id: "news-conducted-a-month-long-cybersecurity-workshop-for-indian-army-in-conjunction-with-pravartak-and-iit-madras",
+          title: 'Conducted a month long Cybersecurity workshop for Indian Army in conjunction with Pravartak...',
           description: "",
           section: "News",},{id: "news-joined-augusta-university-as-assistant-professor",
           title: 'Joined Augusta University as Assistant Professor.',
