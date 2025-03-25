@@ -386,8 +386,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/hwsecworkshop.html";
-            },},{id: "news-conducted-a-month-long-cybersecurity-workshop-for-indian-army-in-conjunciton-with-pravartak-and-iit-madras",
-          title: 'Conducted a month long Cybersecurity workshop for Indian Army in conjunciton with Pravartak...',
+            },},{id: "news-conducted-a-month-long-cybersecurity-workshop-for-indian-army-in-conjuction-with-pravartak-and-iit-madras",
+          title: 'Conducted a month long Cybersecurity workshop for Indian Army in conjuction with Pravartak...',
           description: "",
           section: "News",},{id: "news-joined-augusta-university-as-assistant-professor",
           title: 'Joined Augusta University as Assistant Professor.',
@@ -443,7 +443,7 @@ ninja.data = [{
           section: "Talks",},{id: "talks-delivered-a-demonstration-on-secure-soc-architectures-at-northrop-grumman",
           title: 'Delivered a demonstration on Secure SoC Architectures at Northrop Grumman.',
           description: "",
-          section: "Talks",},{id: "talks-delivered-a-talk-on-cybersecurity-and-system-design-at-sony-finishing-school-iitm-pravaratak",
+          section: "Talks",},{id: "talks-delivered-a-talk-on-cybersecurity-and-system-design-at-sony-finishing-school-iitm-pravartak",
           title: 'Delivered a talk on Cybersecurity and System Design at Sony Finishing School. IITM...',
           description: "",
           section: "Talks",},{
